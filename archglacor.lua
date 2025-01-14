@@ -3,7 +3,7 @@
 local API = require("api")
 
 -- Define Arch-Glacor NPC ID and loot parameters
-local ARCH_GLACOR_ID = 12345  -- Replace with actual Arch-Glacor ID
+local ARCH_GLACOR_ID = 28241  -- Replace with actual Arch-Glacor ID
 local LOOT_DISTANCE = 10
 
 -- Function to attack Arch-Glacor
